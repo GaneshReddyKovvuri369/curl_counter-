@@ -2,6 +2,12 @@
 
 This project tracks and counts bicep curls using **YOLOv8 Pose Estimation**.
 
+
+##
+PPT AND REPORT WERE ADDED IN ZIP FILE
+
+
+
 ## 📋 Features
 - Detect human pose using YOLOv8.
 - Calculate elbow angles.
