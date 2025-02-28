@@ -17,3 +17,8 @@ This project tracks and counts bicep curls using **YOLOv8 Pose Estimation**.
 ## 🚀 Run the project
 ```bash
 python main.py
+
+
+
+##
+PPT AND REPORT WERE ADDED IN ZIP FILE
